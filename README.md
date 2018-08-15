@@ -14,7 +14,7 @@ And since we're all lazy, it's better to have a nice little tool to remind us ab
 
 ## Installation
 
-This tool uses the [serverless]{https://serverless.com/framework/docs/} Framework for deployment. It's meant to be cloud agnostic, but I only tried the AWS Provider
+This tool uses the [serverless](https://serverless.com/framework/docs/) Framework for deployment. It's meant to be cloud agnostic, but I only tried the AWS Provider
 
 
 1. Install serverless `npm install -g serverless`
