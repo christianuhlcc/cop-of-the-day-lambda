@@ -1,0 +1,10 @@
+{
+  "name": "cop-of-the-day-lambda",
+  "version": "1.0.0",
+  "description": "A Lambda provisioned by the serverless framework that tells you who is cop of the day",
+  "author": "uhl.christian@googlemail.com",
+  "license": "MIT",
+  "dependencies": {
+    "slack-notify": "^0.1.6"
+  }
+}
