@@ -19,7 +19,8 @@ This tool uses the [serverless](https://serverless.com/framework/docs/) Framewor
 
 1. Install serverless `npm install -g serverless`
 1. Setup cloud credentials according to docs
-1. Configure `SLACK_WEBHOOK_URL`, `SLACK_CHANNEL` and your team
+1. Configure `SLACK_WEBHOOK_URL`, `SLACK_CHANNEL` and your team in `handler.js`
+1. Install dependencies locally with `npm install`
 1. `serverless deploy` 
 1. OPTIONAL: test it with `serverless invoke -f cron -l`
 
